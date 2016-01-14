@@ -1,29 +1,18 @@
-name: TalAlmog
-favicon: null
-layout_spectrum: 0.4264253021683544
-typography_spectrum: 0.16517500765621662
-title: Your run of the mill filmmaker
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#A0B0B8'
+    - '#988838'
+    - '#989860'
+    - '#E84060'
+    - '#E0E0A8'
   brandStrength: 0.10827780677936971
   lightness: 0.5801140849944204
-  saturation: 0.3554220811929554
   rhythmicContrast: 0.5269317254424095
+  saturation: 0.3554220811929554
+cta: {}
+layout_spectrum: 0.4264253021683544
+name: TalAlmog
+opengraph: {}
 purpose: []
+typography_spectrum: 0.16517500765621662
