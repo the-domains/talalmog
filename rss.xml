@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Your run of the mill filmmaker]]></title>
         <description><![CDATA[Your run of the mill filmmaker]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/talalmog/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Jan 2016 14:16:41 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 14 Jan 2016 14:16:43 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/talalmog/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>https://vimeo.com/85904110</p>]]></description>
+            <link>https://thegrid.ai/talalmog/aa778222-dbb6-401c-8f8c-20310cc8d72b/index.html</link>
+            <guid isPermaLink="false">aa778222-dbb6-401c-8f8c-20310cc8d72b</guid>
+            <pubDate>Thu, 14 Jan 2016 14:16:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/96e2fbe2-cb15-4c4a-b4d8-3b5b82c81556.png">]]></description>
-            <link>undefined5688d132-1aca-4031-99b9-472d27744cd9/index.html</link>
+            <link>https://thegrid.ai/talalmog/5688d132-1aca-4031-99b9-472d27744cd9/index.html</link>
             <guid isPermaLink="false">5688d132-1aca-4031-99b9-472d27744cd9</guid>
             <pubDate>Thu, 14 Jan 2016 14:16:29 GMT</pubDate>
         </item>
