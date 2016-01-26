@@ -4,7 +4,7 @@
         <description><![CDATA[TalAlmog]]></description>
         <link>https://thegrid.ai/talalmog/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Jan 2016 16:13:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jan 2016 16:13:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/talalmog/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,12 @@
             <link>https://thegrid.ai/talalmog/5688d132-1aca-4031-99b9-472d27744cd9/index.html</link>
             <guid isPermaLink="false">5688d132-1aca-4031-99b9-472d27744cd9</guid>
             <pubDate>Thu, 14 Jan 2016 14:42:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://thegrid.ai/talalmog/a1f3f62a-08cd-49fc-94c6-b74a1f5ed509/index.html</link>
+            <guid isPermaLink="false">a1f3f62a-08cd-49fc-94c6-b74a1f5ed509</guid>
+            <pubDate>Tue, 26 Jan 2016 16:13:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +74,6 @@
             <link>https://vimeo.com/home/myvideos/page:2/sort:date/format:video</link>
             <guid isPermaLink="false">5c213a9c-3de7-4ced-aaff-b56644a7a56d</guid>
             <pubDate>Tue, 26 Jan 2016 13:23:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[bycicle doc teaser]]></title>
-            <description><![CDATA[<article><h1>bycicle doc teaser</h1><p>This is "bycicle doc teaser" by on Vimeo, the home for high quality videos and the people who love them.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/68034d59677bf5df918e4a0f10a1a1568a50f615.jpg"></article>]]></description>
-            <link>https://vimeo.com/149894710</link>
-            <guid isPermaLink="false">d8b6b051-64a2-45da-adce-52e8fadc9b8e</guid>
-            <pubDate>Tue, 26 Jan 2016 12:50:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
