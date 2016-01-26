@@ -4,7 +4,7 @@
         <description><![CDATA[TalAlmog]]></description>
         <link>https://thegrid.ai/talalmog/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Jan 2016 16:13:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jan 2016 18:29:21 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/talalmog/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -15,6 +15,14 @@
         </item>
         <item>
             <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f1e23360-1b66-4d71-b09b-538bc7500200.png">]]></description>
+            <link>https://thegrid.ai/talalmog/6c1b916c-5b8e-418b-a1c6-da28e00f6ee6/index.html</link>
+            <guid isPermaLink="false">6c1b916c-5b8e-418b-a1c6-da28e00f6ee6</guid>
+            <pubDate>Tue, 26 Jan 2016 18:28:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>desert commercial</p>]]></description>
             <link>https://thegrid.ai/talalmog/a1f3f62a-08cd-49fc-94c6-b74a1f5ed509/index.html</link>
             <guid isPermaLink="false">a1f3f62a-08cd-49fc-94c6-b74a1f5ed509</guid>
             <pubDate>Tue, 26 Jan 2016 16:13:18 GMT</pubDate>
@@ -67,13 +75,6 @@
             <link>https://vimeo.com/home/myvideos/page:1/sort:date/format:video</link>
             <guid isPermaLink="false">e5f707e9-5857-4b04-8ea6-c1e70a11d5fc</guid>
             <pubDate>Tue, 26 Jan 2016 13:23:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Vimeo: Watch, upload and share HD videos with no ads]]></title>
-            <description><![CDATA[<article><h1>Vimeo: Watch, upload and share HD videos with no ads</h1><p>Join the web's most supportive community of creators and get high-quality tools for hosting, sharing, and streaming videos in gorgeous HD with no ads.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/da8e7431f228681021ffd679d2c1c73133372524.png"></article>]]></description>
-            <link>https://vimeo.com/home/myvideos/page:2/sort:date/format:video</link>
-            <guid isPermaLink="false">5c213a9c-3de7-4ced-aaff-b56644a7a56d</guid>
-            <pubDate>Tue, 26 Jan 2016 13:23:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
