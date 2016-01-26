@@ -31,8 +31,8 @@ app_links:
     app_name: Vimeo
 isBasedOnUrl: 'https://vimeo.com/home/myvideos/page:1/sort:date/format:video'
 title: 'Vimeo: Watch, upload and share HD videos with no ads'
-datePublished: '2016-01-26T13:23:40.428Z'
-dateModified: '2016-01-26T12:48:01.079Z'
+datePublished: '2016-01-26T13:23:40.500Z'
+dateModified: '2016-01-26T13:20:30.589Z'
 sourcePath: _posts/2016-01-26-vimeo-watch-upload-and-share-hd-videos-with-no-ads.md
 published: true
 inFeed: true
