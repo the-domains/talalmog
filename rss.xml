@@ -4,7 +4,7 @@
         <description><![CDATA[TalAlmog]]></description>
         <link>https://thegrid.ai/talalmog/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Jan 2016 13:22:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jan 2016 13:22:04 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/talalmog/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -26,13 +26,6 @@
             <link>https://vimeo.com/149894710</link>
             <guid isPermaLink="false">d8b6b051-64a2-45da-adce-52e8fadc9b8e</guid>
             <pubDate>Tue, 26 Jan 2016 12:50:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>https://vimeo.com/85904110</p>]]></description>
-            <link>https://thegrid.ai/talalmog/aa778222-dbb6-401c-8f8c-20310cc8d72b/index.html</link>
-            <guid isPermaLink="false">aa778222-dbb6-401c-8f8c-20310cc8d72b</guid>
-            <pubDate>Thu, 14 Jan 2016 14:16:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
